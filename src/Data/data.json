@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Low lounge chair",
+    "short_description": "Curabitur rhoncus – faucibus magna. Sed at ligula convallis, porttitor lectus sit amet. Phasellus viverra justo vel egestas.",
+    "price": 69,
+
+    "description": "Duis pharetra pharetra elit in vulputate. Donec in libero convallis. Sed vulputate varius enim nec suscipit. Phasellus viverra justo vel egestas ullamcorper nibh enim suscipit dui.Curabitur rhoncus – faucibus magna. Sed at ligula convallis, porttitor lectus sit amet. Phasellus viverra justo vel egestas ullamcorper nibh enim suscipit dui",
+    "details_Image": [
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2023/01/q446.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2023/01/q445.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2023/01/q447.jpg"
+    ],
+
+    "category": "Chairs",
+
+    "Characteristics": {
+      "Weight": "",
+      "color": "Brown",
+      "Material": ["Leather", "Wood"]
+    }
+  },
+  {
+    "name": "Wooden chair",
+    "short_description": "95% Donec id molestie metus No sed eleifend risus Natural maecenas tincidunt Easy to diam sit amet egestas",
+    "price": 99,
+
+    "description": "Lorem ipsum dolor dapibus purus sit amet, consectetur adipiscing elit. Sed mi odio, sodales ut ante nec, viverra condimentum sapien.Quisque dapibus purus consequat tempor tellus nec commodo. In hac habitasse platea dictumst. Aliquam dapibus purus at ipsum eleifend sagittis. In id sem vestibulum, aliquet sapien quis, molestie nunc. Aliquam volutpat nec est ut laoreet. Maecenas malesuada lectus nec mi dignissim tincidunt. Lorem ipsum dolor dapibus purus sit amet, consectetur adipiscing elit.",
+    "details_Image": [
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2022/09/2023-053.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2022/09/2023-052.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2022/09/q0107.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2022/09/2023-053.jpg"
+    ],
+
+    "category": "Chairs",
+
+    "Characteristics": {
+      "Weight": "36kg",
+      "color": "White",
+      "Material": ["Wood", ""]
+    }
+  },
+  {
+    "name": "Soft lounge chair",
+    "short_description": "Suspendisse egestas ullamcorper nibh enim suscipit duiultricies. Dolor nulla sollicitudin.",
+    "price": 7,
+
+    "description": "Duis pharetra pharetra elit in vulputate. Donec in libero convallis. Sed vulputate varius enim nec suscipit. Phasellus viverra justo vel egestas ullamcorper nibh enim suscipit dui. Maecenas mattis ipsum sed ex lobortis ultricies. Nullam maximus pharetra aliquam lorem ipsum dolor.",
+    "details_Image": [
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2022/09/2023-004.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2022/09/2023-003.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2022/09/2023-004.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2022/09/2023-003.jpg"
+    ],
+
+    "category": "Chairs",
+
+    "Characteristics": {
+      "Weight": "25kg",
+      "color": ["Brown", "Black"],
+      "Material": ["Leather", "Textile"]
+    }
+  },
+  {
+    "name": "Minimalistic ceramic vase",
+    "short_description": "95% donec id molestie metus lorem",
+    "price": 19,
+
+    "description": "Vestibulum malesuada tristique diam ac pellentesque. Vivamus semper, tortor eu hendrerit cursus, lorem odio ultricies turpis, a malesuada dolor arcu ac libero. Integer semper dui ligula, sit amet ullamcorper felis pretium a. Phasellus vel nunc eu tellus aliquet elementum. Nullam eleifend non dolor eu vehicula.Pellentesque fringilla ullamcorper est, non ullamcorper arcu feugiat lobortis. Ut tincidunt augue augue, at ultrices ac.",
+    "details_Image": [
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2020/12/es00107.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2020/12/es0105.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2020/12/es0106.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2020/12/es00108.jpg"
+    ],
+
+    "category": "Decor"
+  },
+  {
+    "name": "Abstract ceramic vase",
+    "short_description": "Velit quis ex ornare rhoncus. Donec imperdiet risus justo, vel malesuada dolor amet ipsum.",
+    "price": 5,
+
+    "description": "Lorem ipsum dolor dapibus purus sit amet, consectetur adipiscing elit. Sed mi odio, sodales ut ante nec, viverra condimentum sapien. Quisque dapibus purus consequat tempor tellus nec commodo. In hac habitasse platea dictumst. Aliquam dapibus purus at ipsum eleifend sagittis. In id sem vestibulum, aliquet sapien quis, molestie nunc. Aliquam volutpat nec est ut laoreet.",
+    "details_Image": [
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2021/01/q086.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2021/01/q084.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2021/01/q085.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2021/01/q088.jpg"
+    ],
+
+    "category": "Decor",
+
+    "Characteristics": {
+      "Weight": "0.6kg",
+      "color": "Black",
+      "Material": ["Ceramics", ""]
+    }
+  },
+  {
+    "name": "Clay bowl",
+    "short_description": "Etiam id urna at mauris rhoncus fermentum dolor. Lorem id urnalacinia. Cras molestie porttitor lacinia.",
+    "price": 5,
+
+    "description": "Vestibulum malesuada tristique diam ac pellentesque. Vivamus semper, tortor eu hendrerit cursus, lorem odio ultricies turpis, a malesuada dolor arcu ac libero. Integer semper dui ligula, sit amet ullamcorper felis pretium a. Phasellus vel nunc eu tellus aliquet elementum. Nullam eleifend non dolor eu vehicula.",
+    "details_Image": [
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2020/12/es0101.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2020/12/es0102.jpg",
+      "",
+      ""
+    ],
+
+    "category": "Decor",
+
+    "Characteristics": {
+      "Weight": "",
+      "color": "Gray",
+      "Material": ["Ceramics", ""]
+    }
+  },
+  {
+    "name": "Soy candle",
+    "short_description": "Vivamus semper, tortor eu hendrerit cursus, lorem odio ultricies turpis, a malesuada dolor arcu ac libero.",
+    "price": 5,
+
+    "description": "Vestibulum malesuada tristique diam ac pellentesque. Vivamus semper, tortor eu hendrerit cursus, lorem odio ultricies turpis, a malesuada dolor arcu ac libero. Integer semper dui ligula, sit amet ullamcorper felis pretium!",
+    "details_Image": [
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2023/01/q05502.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2023/01/q05501.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2023/01/q05503.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2023/01/q05502.jpg"
+    ],
+
+    "category": "Decor",
+
+    "Characteristics": {
+      "Weight": "",
+      "color": ["Brown", "Black", "Beige"],
+      "Material": ["Ceramics", ""]
+    }
+  },
+  {
+    "name": "Glass vase",
+    "short_description": "Lorem id urna - dolor at molestie porttitor lacinia. Cras molestie porttitor lacinia egestas ullamcorper nibh enim suscipit dui.",
+    "price": 5,
+
+    "description": "Duis pharetra – pharetra elit in vulputate in libero convallis. Sed vulputate varius enim nec suscipit. Phasellus viverra justo vel egestas ullamcorper nibh enim suscipit dui. Maecenas mattis ipsum sed ex lobortis ultricies. Nullam maximus pharetra aliquam lorem ipsum dolor.",
+    "details_Image": [
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2021/01/es00114.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2021/01/es0010103.jpg",
+      "",
+      ""
+    ],
+
+    "category": "Decor",
+
+    "Characteristics": {
+      "Weight": "1.6kg",
+      "color": ["Neutral"],
+      "Material": ["Glass", ""]
+    }
+  },
+  {
+    "name": "Ceramic candle",
+    "short_description": "Nam facilisis eget en aliquet aliquam porta at lectus diam arcu. Maecenas sollicitudin justo augue, at malesuada.",
+    "price": 5,
+
+    "description": "Maecenas justo ligula, scelerisque ac erat blandit, tincidunt lacinia nisl. Mauris vel purus volutpat, laoreet urna quis, molestie mauris. Aenean ac risus eleifend, gravida nunc mollis, bibendum magna. Nam a erat ac neque tincidunt faucibus.",
+    "details_Image": [
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2020/12/es0071.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2020/12/es00712.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2020/12/es0071.jpg",
+      ""
+    ],
+
+    "category": "Decor",
+
+    "Characteristics": {
+      "Weight": "0.75kg",
+      "color": "Gray",
+      "Material": ["Ceramics", ""]
+    }
+  },
+  {
+    "name": "Golden table lamp",
+    "short_description": "In blandit accumsan scelerisque. Suspendisse eget hendrerit diam, ac facilisis urna.",
+
+    "description": "Nam a erat ac neque tincidunt faucibus. Class dolor nulla aptent taciti sociosqu ad litora torquen consectetur adipiscing elit. Sed mi odio, sodales ut ante nec – viverra condimentum sapien risus eleifend, gravida nunc mollis, bibendum magna. Nam a erat ac neque tincidunt faucibus. ",
+    "details_Image": [
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2021/01/q0109.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2021/01/q0108.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2021/01/q01099.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2021/01/q0109.jpg"
+    ],
+
+    "category": "Lighting",
+
+    "Characteristics": {
+      "Weight": "1.6 kg",
+      "color": "Yellow",
+      "Material": ["Metal", ""]
+    }
+  },
+  {
+    "name": "Round ceiling lamp",
+    "short_description": "Natural maecenas tincidunt",
+    "price": 5,
+
+    "description": "Lorem ipsum dolor dapibus purus sit amet, consectetur adipiscing elit. Sed mi odio, sodales ut ante nec, viverra condimentum sapien. Quisque dapibus purus consequat tempor tellus nec commodo. In hac habitasse platea dictumst. Aliquam dapibus purus at ipsum eleifend sagittis. In id sem vestibulum, aliquet sapien quis, molestie nunc. Aliquam volutpat nec est ut laoreet. Maecenas malesuada lectus nec mi dignissim tincidunt. Lorem ipsum dolor dapibus purus sit amet, consectetur adipiscing elit.",
+    "details_Image": [
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2020/12/es0050.jpg",
+      "https://the7.io/elementor-shop/wp-content/uploads/sites/79/2020/12/es0051.jpg",
+      "",
+      ""
+    ],
+
+    "category": "Lighting",
+
+    "Characteristics": {
+      "Weight": "2.6 kg",
+      "color": ["Black", "White"],
+      "Material": ["Glass", "Metal"]
+    }
+  },
+  {
+    "name": "Collagen CBD Gummies",
+    "short_description": "",
+    "price": 5,
+   
+    "description": "Nam vitae sapien dapibus, condimentum ipsum non, porttitor purus. Cras et diam ac – nunc urna magna, porttitor eu laoreet aliquam. Suspendisse potenti vitae sapien dapibus, condimentum, porttitor purus posuere felis vestibulum pharetra dapibus. Nam vitae sapien dapibus dolor!",
+    "details_Image": [
+      "https://the7.io/cbd/wp-content/uploads/sites/104/2022/11/vprod007.jpg",
+      "https://the7.io/cbd/wp-content/uploads/sites/104/2022/11/vprod007-1.jpg",
+      "https://the7.io/cbd/wp-content/uploads/sites/104/2022/11/vim0303.jpg",
+      "https://the7.io/cbd/wp-content/uploads/sites/104/2022/11/vim0304.jpg"
+    ],
+    "home_image": "",
+    "Id": "",
+    "category": "CBD",
+    "category_id": 1,
+    "subcategory": [],
+    "Important": ["Moisturising", "Healing", "Long-lasting effect", ""],
+    "usage": {
+      "Recommended": "1-2 measuring spoons dapibus, condimentum ipsum non, porttitor purus. Cras et diam ac – nunc urna magna, porttitor eu laoreet aliquam.",
+      "General": "Cras et diam ac – nunc urna magna, porttitor eu laoreet aliquam. Suspendisse potenti vitae sapien dapibus, condimentum, porttitor purus posuere felis vestibulum pharetra dapibus. Nam vitae sapien dapibus dolo"
+    },
+    "advantages": [
+      "Sustainable organic production",
+      "100% vegan product",
+      "Premium quality CBD product",
+      "Clinically tested"
+    ],
+    "features": [
+      "30 days money back guarantee",
+      "Over 1,00,000 satisfied customers",
+      "Free delivery for orders over $50",
+      "24/7 online customers support"
+    ]
+  },
+  {
+    "name": "RELAXED SILUETTE JOGGERS",
+    "short_description": "Brown 90% cotton, 10% polyester",
+    "price": 5,
+   
+    "description": "",
+    "details_Image": [
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2022/10/s901.jpg",
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2022/10/s902.jpg",
+      "",
+      ""
+    ],
+  
+    "category": "Men's fashion",
+  
+    "details": [
+      "100% cotton;",
+      "Black color;",
+      "Signature logo;",
+      "3 pockets;",
+      "Made in Italy."
+    ],
+    "Composition": "100% organic cotton",
+    "Size & fit": [
+      "This piece fits true to size. We recommend you get your regular size;",
+      "Get a smaller size for a slim fit",
+      "Made with a mid-weight fabric"
+    ],
+    "Clothes_size": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "name": "PINK OVERSIZED T-SHIRT",
+    "short_description": "Pink 100% organic cotton",
+    "price": 5,
+  
+    "description": "",
+    "details_Image": [
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/11/s305.jpg",
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/11/s301.jpg",
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/11/s304.jpg",
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/11/s303.jpg"
+    ],
+    
+    "category": "Men's fashion",
+   
+    "details": [
+      "100% cotton;",
+      "Black color;",
+      "Signature logo;",
+      "3 pockets;",
+      "Made in Italy."
+    ],
+    "Composition": "100% organic cotton",
+    "Size_and_fit": [
+      "This piece fits true to size. We recommend you get your regular size;",
+      "Get a smaller size for a slim fit",
+      "Made with a mid-weight fabric"
+    ],
+    "Clothes_size": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "name": "GREY PULLOVER",
+    "short_description": "Grey wool and silk",
+    "price": 5,
+    "rating": 4.5,
+    "description": "",
+    "details_Image": [
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/12/s502.jpg",
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/12/s804.jpg",
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/12/s811.jpg",
+      ""
+    ],
+    "home_image": "",
+    "Id": "",
+    "category": "Men's fashion",
+    "category_id": 1,
+    "subcategory": [],
+    "details": [
+      "100% cotton;",
+      "Black color;",
+      "Signature logo;",
+      "3 pockets;",
+      "Made in Italy."
+    ],
+    "Composition": "100% organic cotton",
+    "Size & fit": [
+      "This piece fits true to size. We recommend you get your regular size;",
+      "Get a smaller size for a slim fit",
+      "Made with a mid-weight fabric"
+    ],
+    "Clothes_size": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "name": "BLACK OVERSIZED T-SHIRT",
+    "short_description": "Black cotton jersey",
+    "price": 5,
+    "rating": 4.5,
+    "description": "",
+    "details_Image": [
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/12/s404.jpg",
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/12/s401.jpg",
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/12/s405.jpg",
+      ""
+    ],
+    "home_image": "",
+    "Id": "",
+    "category": "Men's fashion",
+    "category_id": 1,
+    "subcategory": [],
+    "details": [
+      "100% cotton;",
+      "Black color;",
+      "Signature logo;",
+      "3 pockets;",
+      "Made in Italy."
+    ],
+    "Composition": "100% organic cotton",
+    "Size & fit": [
+      "This piece fits true to size. We recommend you get your regular size;",
+      "Get a smaller size for a slim fit",
+      "Made with a mid-weight fabric"
+    ],
+    "Clothes_size": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "name": "BROWN OVERSIZED SWEATSHIRT",
+    "short_description": "Brown 100% organic cotton",
+    "price": 349.9,
+    "rating": 4.5,
+    "description": "",
+    "details_Image": [
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/08/s504.jpg",
+      "https://the7.io/brand-shop/wp-content/uploads/sites/103/2021/08/s503.jpg",
+      "",
+      ""
+    ],
+    "home_image": "",
+    "Id": "",
+    "category": "Men's fashion",
+    "category_id": 1,
+    "subcategory": [],
+    "details": [
+      "100% cotton;",
+      "Black color;",
+      "Signature logo;",
+      "3 pockets;",
+      "Made in Italy."
+    ],
+    "Composition": "100% organic cotton",
+    "Size & fit": [
+      "This piece fits true to size. We recommend you get your regular size;",
+      "Get a smaller size for a slim fit",
+      "Made with a mid-weight fabric"
+    ],
+    "Clothes_size": ["XS", "S", "M", "L", "XL", "XXL"]
+  }
+]
